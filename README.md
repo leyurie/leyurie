@@ -1,3 +1,3 @@
 <img align="left" height="20%" src = "https://github-readme-stats.vercel.app/api?username=leyurie&show_icons=true&theme=algolia" />
 
-<img align="right" width="20%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leyurie&layout=compact&theme=algolia" />
+<img align="right" width="30%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leyurie&layout=compact&theme=algolia" />
